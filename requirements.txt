@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+numpy 
+plotly
+dash
+dash-core-components
+dash-html-components
+openpyxl
